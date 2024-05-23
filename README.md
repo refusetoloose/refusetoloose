@@ -14,7 +14,7 @@ I'm Prajwal Nagaraj, a Business Analyst entusiast and a experienced Quality Assu
 - 📧 Reach me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-nagaraj)
 
 ## Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refusetoloose&theme=dark&hide_border=true&repo=Data-Science-Projects)](https://github.com/refusetoloose/AESO-ENERGY-CONSUMPTION-ANALYSIS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refusetoloose&theme=dark&hide_border=true&repo=AESO-ENERGY-CONSUMPTION-ANALYSIS)](https://github.com/refusetoloose/AESO-ENERGY-CONSUMPTION-ANALYSIS)
 
 ## Skills 🛠️
 
