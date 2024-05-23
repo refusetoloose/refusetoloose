@@ -11,7 +11,7 @@ I'm Prajwal Nagaraj, a Business Analyst entusiast and a experienced Quality Assu
 
 - 🎓 Expected Graduation: April 2025
 - 💼 Seeking an internship or any opportunity to expand my knowledge in data analytics or a related field. I am eager to apply my skills and gain hands-on experience.
-- 📧 Reach me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-nagaraj)
+- 📧 Reach me at: [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-nagaraj)
 
 ## Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refusetoloose&theme=dark&hide_border=true&repo=AESO-ENERGY-CONSUMPTION-ANALYSIS)](https://github.com/refusetoloose/AESO-ENERGY-CONSUMPTION-ANALYSIS)
