@@ -7,13 +7,11 @@ Welcome to my GitHub profile! 🚀
 ## About Me ℹ️
 I'm Prajwal Nagaraj, a Business Analyst entusiast and a experienced Quality Assurance professional with a passion for leveraging data analytics to drive business insights and optimize processes. Currently pursuing a Post-Grad in Leadership and Management at Southern Alberta Institute of Technology (SAIT) - School of Business. 
 
-<a href="https://linkedin.com/in/prajwal-nagaraj" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-### Quick Overview 🌟
+## Quick Overview 🌟
 
 - 🎓 Expected Graduation: April 2025
 - 💼 Seeking an internship or any opportunity to expand my knowledge in data analytics or a related field. I am eager to apply my skills and gain hands-on experience.
-- 📧 Reach me at <a href="https://linkedin.com/in/prajwal-nagaraj" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+- 📧 Reach me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-nagaraj)
 
 ## Skills 🛠️
 
