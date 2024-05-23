@@ -36,14 +36,16 @@ I'm Prajwal Nagaraj, a Business Analyst entusiast and a experienced Quality Assu
 
 ### Accenture Solutions Pvt Ltd
 
-- Quality Engineer (Oct. 2021 - Aug. 2023)
+- Quality Engineer 
   - Conducted functional, regression, and integration testing.
   - Collaborated with cross-functional teams to ensure quality integration throughout SDLC.
-
+  - Used Selenium to run test automation scripts to monitor and evaluate functionality and identify UI related bugs.
+    
 ### VI Solutions
 
-- Intern (Jul. 2020 - Aug. 2020)
+- Intern 
   - Explored Embedded Software Programming and Industrial IoT.
+  - Built an AI and ML deep learning tool that can Identify words and images, predict health status, recognize optical characters, and few more image processing tasks.
 
 ## Let's Connect! 🌐
 
