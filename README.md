@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! :rocket: 
 
-## About Me ℹ️
+## About Me :information_source:
 I'm Prajwal Nagaraj, a Business Analyst entusiast and a experienced Quality Assurance professional with a passion for leveraging data analytics to drive business insights and optimize processes. 
 
 ## Quick Overview :star2:
