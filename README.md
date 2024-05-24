@@ -8,8 +8,6 @@ Welcome to my GitHub profile! :rocket:
 I'm Prajwal Nagaraj, a Business Analyst entusiast and a experienced Quality Assurance professional with a passion for leveraging data analytics to drive business insights and optimize processes. 
 
 ## Quick Overview :star2:
-
-- New to Github :v:
 - :mortar_board: Currently Pursuing Management and Leadership Certificate from SAIT - School of Business
 
 ## Top Repositories :notebook:
@@ -25,7 +23,12 @@ I'm Prajwal Nagaraj, a Business Analyst entusiast and a experienced Quality Assu
 ##  Collaboration Tools :handshake:
 [![](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff) ![](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=fff&) ![](https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white) ![](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white) ![](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoftoutlook&logoColor=fff) ![](https://img.shields.io/badge/Microsoft%20OneDrive-0078D4?logo=microsoftonedrive&logoColor=fff) ![](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)](https://github.com/refusetoloose)
 
-## Let's Connect! :globe_with_meridians:
+## Github Analytics
+[<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refusetoloose&layout=compact&theme=dark&hide_border=true"/>](https://github.com/refusetoloose)
 
-- :speech_balloon: Feel free to reach out for collaboration or just to say hi!
-- :point_right: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-nagaraj)
+## Portfolio Website
+[![Static Badge](https://img.shields.io/badge/Website-%20?style=for-the-badge&label=Portfolio&labelColor=dark&color=blue)](https://refusetoloose.github.io/)
+
+## Feel free to reach out for collaboration or to just to say hi! :speech_balloon:
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwalnagaraj1998@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-nagaraj) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/praj_nag) 
+
