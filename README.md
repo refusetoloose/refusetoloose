@@ -8,7 +8,7 @@ Welcome to my GitHub profile! :rocket:
 I'm Prajwal Nagaraj, a Business Analyst entusiast and a experienced Quality Assurance professional with a passion for leveraging data analytics to drive business insights and optimize processes. 
 
 ## Quick Overview :star2:
-- :mortar_board: Currently Pursuing Management and Leadership Certificate from SAIT - School of Business
+:mortar_board: Currently Pursuing Management and Leadership Certificate from SAIT - School of Business
 
 ## Top Repositories :notebook:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refusetoloose&theme=dark&hide_border=true&repo=AESO-ENERGY-CONSUMPTION-ANALYSIS)](https://github.com/refusetoloose/AESO-ENERGY-CONSUMPTION-ANALYSIS)
