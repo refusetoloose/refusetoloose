@@ -13,6 +13,7 @@ I'm Prajwal Nagaraj, a Business Analyst entusiast and a experienced Quality Assu
 ## Top Repositories :notebook:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refusetoloose&theme=dark&hide_border=true&repo=AESO-ENERGY-CONSUMPTION-ANALYSIS)](https://github.com/refusetoloose/AESO-ENERGY-CONSUMPTION-ANALYSIS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refusetoloose&theme=dark&hide_border=true&repo=Calgary-Housing-Market-Analysis-2023)](https://github.com/refusetoloose/Calgary-Housing-Market-Analysis-2023)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refusetoloose&theme=dark&hide_border=true&repo=NYPD-Stop-Question-and-Frisk)](https://github.com/refusetoloose/NYPD-Stop-Question-and-Frisk)
 
 ## IDE :computer:
 [![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff) ![](https://img.shields.io/badge/Jupyter-Notebook?style=for-the-badge&logo=jupyter&color=grey) ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://github.com/refusetoloose)
