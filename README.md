@@ -3,12 +3,10 @@
 ### Hi there :wave: I'm Prajwal Nagaraj  
 
 ## About Me :information_source:
-I'm passionate about **leveraging data analytics** to drive **business insights, optimize processes, and improve decision-making**. With hands-on experience in 
-
-**business analysis, software quality assurance, and test automation**, I enjoy solving problems, refining workflows, and ensuring high-quality software solutions.  
+I'm passionate about **leveraging data analytics** to drive **business insights, optimize processes, and improve decision-making**. With hands-on experience in **business analysis, software quality assurance, and test automation**, I enjoy solving problems, refining workflows, and ensuring high-quality software solutions.  
 
 ## Quick Overview :star2:
-:mortar_board: Currently Pursuing Management and Leadership Certificate from SAIT - School of Business
+:mortar_board: Graduated with a Management and Leadership Certificate, Post Graduation Diploma in Data Analytics, and a Bachelor’s in Electronics and Instrumentation Engineering. 🎓
 
 ## Top Repositories :notebook:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refusetoloose&theme=dark&hide_border=true&repo=AESO-ENERGY-CONSUMPTION-ANALYSIS)](https://github.com/refusetoloose/AESO-ENERGY-CONSUMPTION-ANALYSIS)
