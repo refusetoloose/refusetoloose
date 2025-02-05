@@ -1,11 +1,11 @@
 ![Header](./github-header-image.png)
 
-### Hi there :wave:
-
-Welcome to my GitHub profile! :rocket: 
+### Hi there :wave: I'm Prajwal Nagaraj  
 
 ## About Me :information_source:
-I'm Prajwal Nagaraj, a Business Analyst entusiast and a experienced Quality Assurance professional with a passion for leveraging data analytics to drive business insights and optimize processes. 
+I'm passionate about **leveraging data analytics** to drive **business insights, optimize processes, and improve decision-making**. With hands-on experience in 
+
+**business analysis, software quality assurance, and test automation**, I enjoy solving problems, refining workflows, and ensuring high-quality software solutions.  
 
 ## Quick Overview :star2:
 :mortar_board: Currently Pursuing Management and Leadership Certificate from SAIT - School of Business
